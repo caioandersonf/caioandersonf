@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @caioandersonf
+# 👋 Hi, I’m Caio Anderson Bezerra Fernandes
 - 👀 I’m interested in becoming a fullstack developer
 - 🌱 I’m currently learning Javascript
 
-Ferramentas e Tecnologias
+# Ferramentas e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>     
@@ -28,7 +28,7 @@ Ferramentas e Tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </div>
-Contatos:
+# Contatos:
 <p align="left">
   <a href="mailto:caioandersonf@gmail.com" title="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:caioandersonf@gmail.com" alt="Gmail"/>
