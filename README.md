@@ -40,8 +40,9 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/caioandersonbf/" alt="Instagram"/>
   </a>
 </p>
-<div>
-<a href="https://github.com/caioandersonf">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioandersonf&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioandersonf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/caioandersonf">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioandersonf&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioandersonf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
