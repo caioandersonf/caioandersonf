@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a fullstack developer
 - 🌱 I’m currently learning Javascript
 
-## Ferramentas e Tecnologias
+Ferramentas e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>     
@@ -28,12 +28,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </div>
-## Contatos:
+Contatos:
 <p align="left">
   <a href="mailto:caioandersonf@gmail.com" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:caioandersonf@gmail.com" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:caioandersonf@gmail.com" alt="Gmail"/>
+  </a>
   <a href="https://www.linkedin.com/in/caio-anderson-bezerra-fernandes-636682255/" title="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/caio-anderson-bezerra-fernandes-636682255/" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/caio-anderson-bezerra-fernandes-636682255/" alt="LinkedIn"/>
+  </a>
   <a href="https://www.instagram.com/caioandersonbf/" title="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/caioandersonbf/" alt="Instagram"/></a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/caioandersonbf/" alt="Instagram"/>
+  </a>
 </p>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
