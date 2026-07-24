@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vcenter=true&width=600&lines=Fullstack+Developer;Laravel+%2B+Vue.js+3+%2B+Inertia.js;Next.js+%2B+NestJS+%2B+Node.js;Building+Modern%2C+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
-<!-- BÔNUS: Badges de Status do Perfil (Seguidores e Estrelas) -->
+<!-- Badges do Perfil -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/caioandersonf?style=for-the-badge&logo=github&color=00D8FF&labelColor=18181B" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/caioandersonf?style=for-the-badge&logo=github&color=F59E0B&labelColor=18181B" alt="Estrelas" />
@@ -52,21 +52,10 @@
 
 ---
 
-### 📊 Estatísticas & Atividade
+### 📈 Gráfico de Contribuições & Atividade
 
-<!-- OPÇÃO BÔNUS: Badges de Seguidores e Estrelas -->
-
-<!-- OPÇÃO 2: Sequência Diária de Commits (Streak Stats) -->
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=caioandersonf&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<!-- OPÇÃO 3: Profile Summary Cards (Linguagens Mais Usadas & Estatísticas Gerais) -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caioandersonf&theme=dracula" alt="Linguagens Mais Usadas" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caioandersonf&theme=dracula" alt="Estatísticas Gerais" />
+  <img width="100%" src="https://ghchart.rshah.org/00D8FF/caioandersonf" alt="Gráfico de Contribuições do GitHub" />
 </div>
 
 ---
