@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Caio Anderson Bezerra Fernandes
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vcenter=true&width=600&lines=Fullstack+Developer;Laravel+%2B+Vue.js+3+%2B+Inertia.js;Next.js+%2B+NestJS+%2B+Node.js;Building+Modern%2C+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vcenter=true&width=600&lines=Fullstack+Developer" alt="Typing SVG" />
 </p>
 
 <!-- Badges do Perfil -->
@@ -48,14 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" width="45" height="45" title="FileZilla"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="45" height="45" title="PuTTY"/>
-</div>
-
----
-
-### 📈 Gráfico de Contribuições & Atividade
-
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/00D8FF/caioandersonf" alt="Gráfico de Contribuições do GitHub" />
 </div>
 
 ---
